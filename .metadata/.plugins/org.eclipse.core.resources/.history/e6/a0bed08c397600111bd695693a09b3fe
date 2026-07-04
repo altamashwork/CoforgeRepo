@@ -1,0 +1,10 @@
+package com.coforge;
+
+public class Square extends shape {
+	private double side;
+	
+	public  void are() {
+		System.out.println("Area :");
+	}
+
+}
