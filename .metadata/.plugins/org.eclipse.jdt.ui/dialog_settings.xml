@@ -11,7 +11,7 @@
 	</section>
 	<section name="JavaProjectWizard.dialogBounds">
 		<item key="DIALOG_X_ORIGIN" value="117"/>
-		<item key="DIALOG_Y_ORIGIN" value="-44"/>
+		<item key="DIALOG_Y_ORIGIN" value="7"/>
 		<item key="DIALOG_WIDTH" value="791"/>
 		<item key="DIALOG_HEIGHT" value="813"/>
 		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
@@ -39,5 +39,15 @@
 	<section name="RefactoringWizard.preview">
 		<item key="width" value="600"/>
 		<item key="height" value="400"/>
+	</section>
+	<section name="NewPackageCreationWizard.dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="495"/>
+		<item key="DIALOG_Y_ORIGIN" value="124"/>
+		<item key="DIALOG_WIDTH" value="560"/>
+		<item key="DIALOG_HEIGHT" value="500"/>
+		<item key="DIALOG_FONT_NAME" value="1|Segoe UI|9.0|0|WINDOWS|1|-15|0|0|0|400|0|0|0|1|0|0|0|0|Segoe UI"/>
+	</section>
+	<section name="NewPackageWizardPage">
+		<item key="create_package_info_java" value="false"/>
 	</section>
 </section>
