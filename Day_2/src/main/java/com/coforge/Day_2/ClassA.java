@@ -19,8 +19,8 @@ public class ClassA implements Interface1,Interface2{
 				
 			}
 
-		}
+		
 
 	}
 
-}
+
