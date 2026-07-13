@@ -1,5 +1,6 @@
 package com.coforge;
 
+
 import java.util.HashSet;
 
 public class SetMain {
@@ -48,15 +49,6 @@ public class SetMain {
 			System.out.println(i);
 		
 		//complete all operations on HashSet and LinkedHashSet
-		
-//complete all operation on HashSet and LinkedHashSet
-		
-		hset.clear();
-		hset.contains(12);
-		hset.equals(obj);
-		hset.getClass();
-		
 	}
 
 }
-
