@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?<beans xmlns="http://www.springframework.org/schema/beans"target data?>
+<?xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"target data?>
+<?xmlns:context="http://www.springframework.org/schema/context" xsi:schemaLocation="target data?>
+<?http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsdtarget data?>
+<?http://www.springframework.org/schema/context http://www.springframework.org/schema/context/spring-context.xsd"> <!-- bean definitions here -->target data?>
+<?<bean id="hello" name="hello" class="com.coforge.beans.Hello">target data?>
+<?</bean>target data?>
+<?</bean>target data?>
