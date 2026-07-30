@@ -1,0 +1,13 @@
+<h1>Parent Component</h1>
+
+<h3>Username: {{ uname }}</h3>
+
+<app-child
+  [uname]="uname"
+  (message)="receivedMsgFromChild($event)">
+</app-child>
+
+<hr>
+
+<h3>Message received from Child:</h3>
+<p>{{ msg }}</p>

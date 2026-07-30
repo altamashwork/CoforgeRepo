@@ -1,0 +1,10 @@
+<div>
+    <h1>Parent component</h1>
+    <h1>{{uname}}</h1>
+    <app-child [uname]="uname" (message)="receivedMsgFromChild($event)"></app-child>
+</div>
+
+
+<div>
+    <p>Messaged received from child :{{msg}}</p>
+</div>
